@@ -1,38 +1,72 @@
+Trabalho 1: 
+1) Definição de Arquivo: Um "arquivo" refere-se a uma unidade de armazenamento de informações em um dispositivo de armazenamento de dados, como um disco rígido, SSD, 
+ou outro meio de armazenamento. Geralmente, é uma coleção de dados relacionados que são tratados como uma unidade.
+
+1.1) O que seria um arquivo de Texto?
+Um "arquivo de texto" representa um formato de arquivo que armazena dados na forma de texto simples, comumente codificado utilizando caracteres de uma determinada codificação, 
+como ASCII ou UTF-8. A principal característica desses arquivos é a legibilidade direta do conteúdo por meio de editores de texto simples. Exemplos notáveis incluem o 
+Bloco de Notas no ambiente Windows, o TextEdit no macOS e o Gedit no Linux, que permitem a abertura e edição descomplicada de arquivos de texto. 
+Essa acessibilidade facilita a manipulação e visualização direta do conteúdo por parte dos usuários, tornando os arquivos de texto uma escolha comum para armazenar
+informações simples e legíveis.
+
+2) O que seria uma variável, no contexto da programação de computadores?
+No contexto da programação de computadores, uma "variável" é um local de armazenamento identificado por um nome simbólico(um identificador) e associado a um valor ou informação. 
+As variáveis são usadas para armazenar dados temporários ou permanentes durante a execução de um programa.
+
+3) O que seria um servidor, no contexto da computação?
+No contexto da computação, um "servidor" refere-se a um computador ou sistema de computadores dedicado a fornecer serviços, recursos ou dados para outros dispositivos 
+chamados "clientes". Os servidores desempenham um papel crucial na arquitetura cliente-servidor, que é um modelo de comunicação onde um programa cliente solicita serviços ou 
+recursos a partir de um programa servidor.
+Exemplos de servidores incluem servidores web (que hospedam sites), servidores de e-mail (que gerenciam o envio e recebimento de e-mails), servidores de banco de dados
+(que gerenciam dados em um banco de dados), entre outros. O termo "servidor" é usado tanto para descrever o hardware quanto o software responsável por fornecer os serviço.
+
+Referências: https://conceitosdomundo.pt/arquivo-de-computador/ 
+https://pt.wikipedia.org/wiki/Arquivo_de_texto#:~:text=Um%20arquivo%20de%20texto%20%C3%A9%20uma%20esp%C3%A9cie%20de,que%20%C3%A9%20estruturado%20como%20uma%20sequ%C3%AAncia%20de%20linhas.
+https://4infra.com.br/o-que-e-um-servidor-em-computacao/
+https://4infra.com.br/o-que-e-um-servidor-em-computacao/
+
 
 TRABALHO 2:
 
-A) A relação entre a LGPD e os Data Centers no Brasil: Afim de facilitar o entendimento de uma relação entre LGPD (Leis Gerais de Proteção de Dados) e os Data Centrs no Brasil, primeiro é válido explicar
-separadamente o que são cada um deles.
+A) A relação entre a LGPD e os Data Centers no Brasil: Afim de facilitar o entendimento de uma relação entre LGPD (Leis Gerais de Proteção de Dados) e os Data Centrs no Brasil, 
+primeiro é válido explicar separadamente o que são cada um deles.
 
-A LGPD (Leis Gerais de Proteção de Dados) entrou em vigência a partir de agosto de 2020, afim de criar um cenário de segurança jurídica com a padronização de normas e práticas, para promover a proteção 
-dos dados pessoais de todo cidadão que esteja no Brasil. Vale destacar que todos o processamento de conteúdo de pessoas, brasileiras ou não, que estão no território nacional, a LGPD deve ser cumprida.
+A LGPD (Leis Gerais de Proteção de Dados) entrou em vigência a partir de agosto de 2020, afim de criar um cenário de segurança jurídica com a padronização de normas e práticas, 
+para promover a proteção dos dados pessoais de todo cidadão que esteja no Brasil. Vale destacar que todos o processamento de conteúdo de pessoas, brasileiras ou não, que estão 
+no território nacional, a LGPD deve ser cumprida.
 
-Já em relação aos Data Centers, normalmente são compostos por um conjunto de dispositivos empregados por uma empresa para a manipulação e guarda de informações, sistemas e programas. 
+Já em relação aos Data Centers, normalmente são compostos por um conjunto de dispositivos empregados por uma empresa para a manipulação e guarda de informações, sistemas e programas.
 Essa configuração usualmente engloba servidores, bases de dados computadorizadas e elementos complementares, como unidades de armazenamento e elementos de rede (switches e roteadores).
 Destacando que que uma das tarefas fundamentais de um Centro de Dados consiste em garantir a disponibilidade constante para o acesso aos dados e sistemas hospedados em suas instalações.
 
-Dito isso, fica nítido então, que o Data Center controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados. Portanto, sendo essa a estrutura que deve, prioritariamente,
-operar com base nos preceitos da LGPD para que não ocorra o mau uso de dados pessoais.
+Dito isso, fica nítido então, que o Data Center controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados. Portanto, sendo essa a estrutura que deve,
+prioritariamente, operar com base nos preceitos da LGPD para que não ocorra o mau uso de dados pessoais.
 
 
 B) Os formatos de arquivos de dados podem ser classificados em duas categorias: proprietários e abertos. Essa distinção se refere à natureza das especificações e padrões utilizados na criação e manipulação desses arquivos.
 
-Em relação aos formatos de arquivos Proprietários: são os formatos de arquivos desenvolvidos e controlados por uma empresa ou entidade específica, sendo geralmente associados a um software comercial específico.
+Em relação aos formatos de arquivos Proprietários: são os formatos de arquivos desenvolvidos e controlados por uma empresa ou entidade específica, sendo geralmente associados 
+a um software comercial específico.
 
-Já em relação aos formatos de arquivos abertos: Formatos abertos são aqueles cujas especificações são publicamente disponíveis, permitindo que qualquer pessoa implemente e desenvolva software para trabalhar com esses arquivos.
+Já em relação aos formatos de arquivos abertos: Formatos abertos são aqueles cujas especificações são publicamente disponíveis, permitindo que qualquer pessoa implemente e 
+desenvolva software para trabalhar com esses arquivos.
 
-Considerados os fatos mencionados acima, podemos afirmar que: os formatos abertos tendem a ser mais flexíveis, pois qualquer desenvolvedor pode criar software para trabalhar com esses arquivos, promovendo a inovação 
-e a diversidade de aplicativos. Já os formatos proprietários, por outro lado, oferecem à empresa desenvolvedora um controle mais direto sobre o ecossistema de software associado, mas podem resultar em dependência tecnológica.
+Considerados os fatos mencionados acima, podemos afirmar que: os formatos abertos tendem a ser mais flexíveis, pois qualquer desenvolvedor pode criar software para trabalhar com 
+esses arquivos, promovendo a inovação e a diversidade de aplicativos. Já os formatos proprietários, por outro lado, oferecem à empresa desenvolvedora um controle mais direto sobre
+o ecossistema de software associado, mas podem resultar em dependência tecnológica.
 
-B.1) Para exemplificar: formatos de arquivos da Microsoft, como o formato .docx para documentos do Word, ou o formato .xlsx para planilhas do Excel, são exemplos de formatos de dados proprietários.
-Enquanto formatos como JSON (JavaScript Object Notation) para dados estruturados, XML (eXtensible Markup Language) e CSV (Comma-Separated Values) são exemplos de formatos abertos comuns.
+B.1) Para exemplificar: formatos de arquivos da Microsoft, como o formato .docx para documentos do Word, ou o formato .xlsx para planilhas do Excel, são exemplos de formatos de 
+dados proprietários.
+Enquanto formatos como JSON (JavaScript Object Notation) para dados estruturados, XML (eXtensible Markup Language) e CSV (Comma-Separated Values) são exemplos de formatos abertos 
+comuns.
 
 
-B.2) Informações públicas dizem respeito a dados acessíveis e utilizáveis pelo público em geral. Essas informações abarcam uma extensa variedade de dados, desde estatísticas governamentais até conjuntos coletados por diversas
-organizações e instituições. A disponibilidade de dados públicos impacta profundamente diversas áreas. Em síntese, os dados públicos apresentam oportunidades consideráveis, mas exigem uma administração responsável,
-levando em conta questões éticas, de segurança e privacidade. Quando administrados de maneira adequada, esses dados têm o potencial de estimular a inovação, fortalecer a democracia e aprimorar a qualidade de vida da sociedade 
+B.2) Informações públicas dizem respeito a dados acessíveis e utilizáveis pelo público em geral. Essas informações abarcam uma extensa variedade de dados, desde estatísticas 
+governamentais até conjuntos coletados por diversas organizações e instituições. A disponibilidade de dados públicos impacta profundamente diversas áreas.
+Em síntese, os dados públicos apresentam oportunidades consideráveis, mas exigem uma administração responsável,levando em conta questões éticas, de segurança e privacidade. 
+Quando administrados de maneira adequada, esses dados têm o potencial de estimular a inovação, fortalecer a democracia e aprimorar a qualidade de vida da sociedade 
 como um todo.
 
 
-Referências: https://odatacolocation.com/blog/lgpd-para-datacenters/#:~:text=Em%20suas%20opera%C3%A7%C3%B5es%2C%20a%20aplica%C3%A7%C3%A3o,de%20Private%20Equity%20no%20Brasil. / 
+Referências: https://odatacolocation.com/blog/lgpd-para-datacenters/#:~:text=Em%20suas%20opera%C3%A7%C3%B5es%2C%20a%20aplica%C3%A7%C3%A3o,de%20Private%20Equity%20no%20Brasil.
 https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
