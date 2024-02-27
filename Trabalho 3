@@ -1,0 +1,23 @@
+Trabalho 3: 
+
+1) Diferença entre Pynthon, Java e C++:
+Existem muitas linguagens de programação, e as diferenças entre elas podem ser vastas em termos de sintaxe, paradigmas de programação, propósitos de uso e outros aspectos. 
+Destacando algumas diferenças entre três linguagens populares: Python, Java e C++.
+
+Python:
+Paradigma: Python é uma linguagem de programação de alto nível que suporta múltiplos paradigmas, incluindo programação orientada a objetos, programação imperativa e programação 
+funcional.
+Sintaxe: Python é conhecido por ter uma sintaxe limpa e legível, o que facilita a escrita e leitura de código.
+Uso: É amplamente utilizado para desenvolvimento web, automação, análise de dados, inteligência artificial, aprendizado de máquina e scripting.
+
+Java:
+Paradigma: Java é uma linguagem de programação orientada a objetos, projetada para ser independente de plataforma (write once, run anywhere - WORA).
+Sintaxe: A sintaxe do Java é semelhante à de C++, mas com uma abordagem mais orientada a objetos. Possui gerenciamento de memória automático através da Máquina Virtual Java (JVM).
+Uso: É amplamente utilizado no desenvolvimento de aplicativos corporativos, sistemas distribuídos, aplicações Android e em ambientes empresariais.
+
+C++:
+Paradigma: C++ é uma extensão da linguagem C e suporta programação procedural e orientada a objetos. É conhecido por oferecer mais controle sobre a memória em comparação 
+com linguagens de alto nível.
+Sintaxe: A sintaxe do C++ é semelhante à do C, mas com adição de recursos orientados a objetos. É uma linguagem de baixo nível em comparação com Python e Java.
+Uso: C++ é frequentemente utilizado no desenvolvimento de software de sistema, jogos, drivers de hardware, aplicações de alto desempenho e em áreas que demandam eficiência e 
+controle direto sobre os recursos do sistema.
