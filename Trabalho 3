@@ -23,6 +23,29 @@ Uso: C++ é frequentemente utilizado no desenvolvimento de software de sistema, 
 controle direto sobre os recursos do sistema.
 
 
+Código Mínimo em Python, Java e C++ respectivamente:
+
+No Python: 
+print("Olá, Mundo!")
+
+
+No Java: 
+public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+
+
+No C++: 
+#include <iostream>
+
+int main() {
+    std::cout << "Olá, Mundo!" << std::endl;
+    return 0;
+}
+
+
 
 Referências: https://www.devmedia.com.br/do-c-c-para-o-java-conheca-as-diferencas-e-principais-caracteristicas/26773
 https://br.bitdegree.org/tutoriais/python-vs-java/
